@@ -201,6 +201,4 @@ I would keep human approval for CRM writes because duplicate, ownership, and CHO
 
 ## Time Spent
 
-## Time Spent
-
 Approximately 3–4 hours of active work in total, including about 1.5 hours on the core reconciliation workflow and the remaining time on the review UI, validation, and usability improvements.
