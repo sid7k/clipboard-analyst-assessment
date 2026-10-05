@@ -1,0 +1,967 @@
+[
+  {
+    "website": {
+      "name": "Bellhaven of Maplewood",
+      "address": "210 Orchard Lane",
+      "city": "Maplewood",
+      "state": "OH",
+      "zip": "44280",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001L3LGR6W69J8DYYV",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of New Carlisle",
+      "address": "875 Elm Street",
+      "city": "New Carlisle",
+      "state": "OH",
+      "zip": "45344",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001AQGPZ5G5VRES536",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Wooster",
+      "address": "2301 Cleveland Road",
+      "city": "Wooster",
+      "state": "OH",
+      "zip": "44691",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001W5G121A7SMRP58M",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Terrace of Akron",
+      "address": "55 Ridgewood Avenue",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0019Y4J61ZBG4R00CD",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Saline",
+      "address": "980 W Michigan Ave",
+      "city": "Saline",
+      "state": "MI",
+      "zip": "48176",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001MVVAPY6U5TVYRC4",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Goshen",
+      "address": "1610 College Ave",
+      "city": "Goshen",
+      "state": "IN",
+      "zip": "46526",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001JQER1RMYKNRLNME",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Meadville",
+      "address": "341 Chestnut St",
+      "city": "Meadville",
+      "state": "PA",
+      "zip": "16335",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001KC1NG7EZDEKKA3T",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Defiance",
+      "address": "700 Carpenter Rd",
+      "city": "Defiance",
+      "state": "OH",
+      "zip": "43512",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001R4PXTUD9R6FNN8V",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Woods of Toledo",
+      "address": "4850 NW Sylvania Ave",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43623",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0014DHACE6WQU3RMM5",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Marion",
+      "address": "199 Barks Rd W",
+      "city": "Marion",
+      "state": "OH",
+      "zip": "43302",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0015L38R1Z5947ZZP7",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Kalamazoo",
+      "address": "3222 Gull Rd",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49048",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001NSHWKQD0YJLPQ20",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Court of Altoona",
+      "address": "1125 Logan Blvd",
+      "city": "Altoona",
+      "state": "PA",
+      "zip": "16602",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0011D2P3CWSHMF81C8",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Rehabilitation & Nursing of Grove City",
+      "address": "3985 Broadway",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001TZCSTBZFM6K5BGN",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven at Sycamore Ridge",
+      "address": "7420 Sycamore Ridge Dr",
+      "city": "Miamisburg",
+      "state": "OH",
+      "zip": "45342",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "00191H7JR16471SZ34",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "The Arbors at Bellhaven - Dayton",
+      "address": "2210 Salem Ave",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45406",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0010KJFP601YNTZVDA",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Healthcare Centre of Ashland",
+      "address": "1631 Claremont Ave",
+      "city": "Ashland",
+      "state": "OH",
+      "zip": "44805",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001RJ0D7Z5MAZN5HX5",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Port Clinton",
+      "address": "1420 Harbor Point Dr",
+      "city": "Port Clinton",
+      "state": "OH",
+      "zip": "43452",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001UELXDAKFRKB8932",
+    "duplicate_account_ids": [
+      "001JD2MWRA74LTSN24"
+    ],
+    "match_reason": "Unique exact-name Bellhaven record",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Shores of Erie",
+      "address": "4930 W Lake Rd",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16505",
+      "care_offerings": [
+        "Assisted Living",
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001CVBBCSDM7YHN220",
+    "duplicate_account_ids": [
+      "001BLYF02K97SZLZHH"
+    ],
+    "match_reason": "Unique exact-name Bellhaven record",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Kettering",
+      "address": "3313 Wilmington Pike",
+      "city": "Kettering",
+      "state": "OH",
+      "zip": "45429",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0016KTS1UAWBRXS09J",
+    "duplicate_account_ids": [
+      "001WR41PYNWXCAE2X4",
+      "001B7XZAA3AFALS9GP"
+    ],
+    "match_reason": "Human-reviewed PRIMARY decision",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Gardens of Monroe",
+      "address": "750 Stewart Rd",
+      "city": "Monroe",
+      "state": "MI",
+      "zip": "48162",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001U1750VLVJAGG1S5",
+    "duplicate_account_ids": [
+      "0011AB44D05WLA9HTX",
+      "00159PL81N38KM4FHM"
+    ],
+    "match_reason": "Unique exact-name Bellhaven record",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Tiffin",
+      "address": "45 St Lawrence Dr",
+      "city": "Tiffin",
+      "state": "OH",
+      "zip": "44883",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001C535E1120A7B855",
+    "duplicate_account_ids": [],
+    "match_reason": "Unique exact-name Bellhaven record",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Marietta",
+      "address": "805 Colegate Dr",
+      "city": "Marietta",
+      "state": "OH",
+      "zip": "45750",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0013251B5ED1CDB94A",
+    "duplicate_account_ids": [],
+    "match_reason": "Unique exact-name Bellhaven record",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Crossings of Lima",
+      "address": "3115 N Cole St",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45801",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001LGFPBJY4N9MB6KL",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Zanesville",
+      "address": "2680 Maple Ave",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43701",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001H1JMVZWP46D5VUF",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Chagrin Falls",
+      "address": "150 River St",
+      "city": "Chagrin Falls",
+      "state": "OH",
+      "zip": "44022",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001RJU1X4NBWC1Q0G7",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven Willow Creek",
+      "address": "8060 Willow Creek Ln",
+      "city": "Portage",
+      "state": "MI",
+      "zip": "49024",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0017MN2JYAJBDS8WQZ",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Ashtabula",
+      "address": "3156 W Prospect Rd",
+      "city": "Ashtabula",
+      "state": "OH",
+      "zip": "44004",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001NXP9X46CWEPSLSV",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Owosso",
+      "address": "1120 W Main St",
+      "city": "Owosso",
+      "state": "MI",
+      "zip": "48867",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001EGU7BMJ942ZTRE6",
+    "duplicate_account_ids": [
+      "001QU150PM4Z15UA71"
+    ],
+    "match_reason": "Exact Bellhaven name with exact raw website address",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Portsmouth",
+      "address": "2222 Gallia St",
+      "city": "Portsmouth",
+      "state": "OH",
+      "zip": "45662",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001CF3LDWVRGL09P4F",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Batavia",
+      "address": "2000 Hospital Dr",
+      "city": "Batavia",
+      "state": "OH",
+      "zip": "45103",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001DC2135438E33254",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven at Union Square",
+      "address": "118 Union Square Dr",
+      "city": "New Albany",
+      "state": "OH",
+      "zip": "43054",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001805F052C6F01D3B",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Carlisle",
+      "address": "640 Walnut Bottom Rd",
+      "city": "Carlisle",
+      "state": "PA",
+      "zip": "17015",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0010CFC24E5FAB6551",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Amberly Manor",
+      "address": "4390 Darrow Rd",
+      "city": "Hudson",
+      "state": "OH",
+      "zip": "44236",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "001FBDC2B0505CADC6",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Chesterton",
+      "address": "1250 NW Franklin Street",
+      "city": "Chesterton",
+      "state": "IN",
+      "zip": "46304",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "source_url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton"
+    },
+    "status": "MATCHED",
+    "primary_account_id": "0013NUZQHQUEZ8DXEG",
+    "duplicate_account_ids": [],
+    "match_reason": "Only candidate and confident match",
+    "analysis": {
+      "same_name": true,
+      "same_address": true,
+      "same_city": true,
+      "same_state": true,
+      "same_zip": true,
+      "name_similarity": 1.0,
+      "address_similarity": 1.0,
+      "classification": "CONFIDENT",
+      "reason": "Same normalized name, street, city and state"
+    }
+  }
+]

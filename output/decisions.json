@@ -1,0 +1,528 @@
+{
+  "decisions": [
+    {
+      "proposal_id": "proposal_4a0b5b9b0eae84",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth",
+      "case_title": "Bellhaven of Portsmouth",
+      "decided_at": "2026-10-04T20:59:36.919564+00:00",
+      "result": {
+        "updated_account_id": "001CF3LDWVRGL09P4F",
+        "api_response": {
+          "account_id": "001CF3LDWVRGL09P4F",
+          "message": "updated",
+          "fields": [
+            "billing_zip"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_362e753fe181b8",
+      "decision": "APPLIED",
+      "action": "CREATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia",
+      "case_title": "Bellhaven of Batavia",
+      "decided_at": "2026-10-04T21:05:41.029227+00:00",
+      "result": {
+        "created_account_id": "001DC2135438E33254",
+        "api_response": {
+          "account_id": "001DC2135438E33254",
+          "message": "created"
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_c5154aff181268",
+      "decision": "APPLIED",
+      "action": "MARK_NEEDS_REVIEW",
+      "case_key": "crm::00116ETS45BL7DTQP7",
+      "case_title": "Bellhaven Care Center of Alliance",
+      "decided_at": "2026-10-04T21:07:26.375375+00:00",
+      "result": {
+        "updated_account_id": "00116ETS45BL7DTQP7",
+        "api_response": {
+          "account_id": "00116ETS45BL7DTQP7",
+          "message": "updated",
+          "fields": [
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_76cc7ade2eb322",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso",
+      "case_title": "Bellhaven of Owosso",
+      "decided_at": "2026-10-04T21:12:11.847198+00:00",
+      "result": {
+        "updated_account_id": "001QU150PM4Z15UA71",
+        "api_response": {
+          "account_id": "001QU150PM4Z15UA71",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_d31c56a60ef65d",
+      "decision": "APPLIED",
+      "action": "CHOW_CREATE_NEW",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin",
+      "case_title": "Bellhaven of Tiffin",
+      "decided_at": "2026-10-04T21:16:19.401625+00:00",
+      "result": {
+        "created_account_id": "001C535E1120A7B855",
+        "old_account_id": "001U6RW32TY0WSXZZB",
+        "create_response": {
+          "account_id": "001C535E1120A7B855",
+          "message": "created"
+        },
+        "old_account_patch_response": {
+          "account_id": "001U6RW32TY0WSXZZB",
+          "message": "updated",
+          "fields": [
+            "chow_current_account"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_aea6067f4d38f7",
+      "decision": "APPLIED",
+      "action": "CHOW_CREATE_NEW",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta",
+      "case_title": "Bellhaven of Marietta",
+      "decided_at": "2026-10-04T21:16:25.410557+00:00",
+      "result": {
+        "created_account_id": "0013251B5ED1CDB94A",
+        "old_account_id": "001A34WFSUYHCRBLFT",
+        "create_response": {
+          "account_id": "0013251B5ED1CDB94A",
+          "message": "created"
+        },
+        "old_account_patch_response": {
+          "account_id": "001A34WFSUYHCRBLFT",
+          "message": "updated",
+          "fields": [
+            "chow_current_account"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_9d4fb22811a9b6",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima",
+      "case_title": "Bellhaven Crossings of Lima",
+      "decided_at": "2026-10-04T21:24:23.792614+00:00",
+      "result": {
+        "updated_account_id": "001LGFPBJY4N9MB6KL",
+        "api_response": {
+          "account_id": "001LGFPBJY4N9MB6KL",
+          "message": "updated",
+          "fields": [
+            "parent_id",
+            "parent_name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_432c27f3f2d850",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+      "case_title": "Bellhaven Gardens of Monroe",
+      "decided_at": "2026-10-04T21:24:44.883713+00:00",
+      "result": {
+        "updated_account_id": "0011AB44D05WLA9HTX",
+        "api_response": {
+          "account_id": "0011AB44D05WLA9HTX",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_45b5279dc47a3c",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe",
+      "case_title": "Bellhaven Gardens of Monroe",
+      "decided_at": "2026-10-04T21:24:45.401116+00:00",
+      "result": {
+        "updated_account_id": "00159PL81N38KM4FHM",
+        "api_response": {
+          "account_id": "00159PL81N38KM4FHM",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_c1b8a0841e9441",
+      "decision": "APPLIED",
+      "action": "MARK_NEEDS_REVIEW",
+      "case_key": "crm::0016PVXH4B25HWR7QE",
+      "case_title": "Bellhaven of Coldwater",
+      "decided_at": "2026-10-04T21:25:05.057802+00:00",
+      "result": {
+        "updated_account_id": "0016PVXH4B25HWR7QE",
+        "api_response": {
+          "account_id": "0016PVXH4B25HWR7QE",
+          "message": "updated",
+          "fields": [
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_335705cc1d01f2",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+      "case_title": "Bellhaven of Kettering",
+      "decided_at": "2026-10-04T21:28:08.097784+00:00",
+      "result": {
+        "updated_account_id": "0016KTS1UAWBRXS09J",
+        "api_response": {
+          "account_id": "0016KTS1UAWBRXS09J",
+          "message": "updated",
+          "fields": [
+            "name",
+            "parent_id",
+            "parent_name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_9f6ae468893f10",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+      "case_title": "Bellhaven of Kettering",
+      "decided_at": "2026-10-04T21:28:08.640535+00:00",
+      "result": {
+        "updated_account_id": "001WR41PYNWXCAE2X4",
+        "api_response": {
+          "account_id": "001WR41PYNWXCAE2X4",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_eee36866bab49d",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering",
+      "case_title": "Bellhaven of Kettering",
+      "decided_at": "2026-10-04T21:28:09.153189+00:00",
+      "result": {
+        "updated_account_id": "001B7XZAA3AFALS9GP",
+        "api_response": {
+          "account_id": "001B7XZAA3AFALS9GP",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_ddefe114f84437",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton",
+      "case_title": "Bellhaven of Port Clinton",
+      "decided_at": "2026-10-04T21:28:29.158690+00:00",
+      "result": {
+        "updated_account_id": "001JD2MWRA74LTSN24",
+        "api_response": {
+          "account_id": "001JD2MWRA74LTSN24",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_c97d1048e7db8c",
+      "decision": "APPLIED",
+      "action": "MARK_NEEDS_REVIEW",
+      "case_key": "crm::001SXSF4ELF0Z2LGDM",
+      "case_title": "Bellhaven of Sandusky",
+      "decided_at": "2026-10-04T21:28:47.264212+00:00",
+      "result": {
+        "updated_account_id": "001SXSF4ELF0Z2LGDM",
+        "api_response": {
+          "account_id": "001SXSF4ELF0Z2LGDM",
+          "message": "updated",
+          "fields": [
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_8a790107b84632",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville",
+      "case_title": "Bellhaven of Zanesville",
+      "decided_at": "2026-10-04T21:29:04.058809+00:00",
+      "result": {
+        "updated_account_id": "001H1JMVZWP46D5VUF",
+        "api_response": {
+          "account_id": "001H1JMVZWP46D5VUF",
+          "message": "updated",
+          "fields": [
+            "name",
+            "parent_id",
+            "parent_name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_6e2fe09d2f24d0",
+      "decision": "APPLIED",
+      "action": "MARK_DUPLICATE",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie",
+      "case_title": "Bellhaven Shores of Erie",
+      "decided_at": "2026-10-04T21:29:20.416476+00:00",
+      "result": {
+        "updated_account_id": "001BLYF02K97SZLZHH",
+        "api_response": {
+          "account_id": "001BLYF02K97SZLZHH",
+          "message": "updated",
+          "fields": [
+            "duplicate_of_account",
+            "note",
+            "status"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_46e54e9e2b8ed5",
+      "decision": "APPLIED",
+      "action": "CREATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/amberly-manor",
+      "case_title": "Amberly Manor",
+      "decided_at": "2026-10-04T21:29:37.301330+00:00",
+      "result": {
+        "created_account_id": "001FBDC2B0505CADC6",
+        "api_response": {
+          "account_id": "001FBDC2B0505CADC6",
+          "message": "created"
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_569345244d4b4d",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge",
+      "case_title": "Bellhaven at Sycamore Ridge",
+      "decided_at": "2026-10-04T21:29:57.226953+00:00",
+      "result": {
+        "updated_account_id": "00191H7JR16471SZ34",
+        "api_response": {
+          "account_id": "00191H7JR16471SZ34",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_e54f602d11863d",
+      "decision": "APPLIED",
+      "action": "CREATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square",
+      "case_title": "Bellhaven at Union Square",
+      "decided_at": "2026-10-04T21:30:11.964479+00:00",
+      "result": {
+        "created_account_id": "001805F052C6F01D3B",
+        "api_response": {
+          "account_id": "001805F052C6F01D3B",
+          "message": "created"
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_a697cd289abeec",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland",
+      "case_title": "Bellhaven Healthcare Centre of Ashland",
+      "decided_at": "2026-10-04T21:30:28.676890+00:00",
+      "result": {
+        "updated_account_id": "001RJ0D7Z5MAZN5HX5",
+        "api_response": {
+          "account_id": "001RJ0D7Z5MAZN5HX5",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_d0d64fa40f18f9",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula",
+      "case_title": "Bellhaven of Ashtabula",
+      "decided_at": "2026-10-04T21:30:55.437860+00:00",
+      "result": {
+        "updated_account_id": "001NXP9X46CWEPSLSV",
+        "api_response": {
+          "account_id": "001NXP9X46CWEPSLSV",
+          "message": "updated",
+          "fields": [
+            "billing_street"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_4046a5178dadd8",
+      "decision": "APPLIED",
+      "action": "CREATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle",
+      "case_title": "Bellhaven of Carlisle",
+      "decided_at": "2026-10-04T21:31:14.092268+00:00",
+      "result": {
+        "created_account_id": "0010CFC24E5FAB6551",
+        "api_response": {
+          "account_id": "0010CFC24E5FAB6551",
+          "message": "created"
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_6eeb675467bc5f",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls",
+      "case_title": "Bellhaven of Chagrin Falls",
+      "decided_at": "2026-10-04T21:32:05.678361+00:00",
+      "result": {
+        "updated_account_id": "001RJU1X4NBWC1Q0G7",
+        "api_response": {
+          "account_id": "001RJU1X4NBWC1Q0G7",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_d36ca87d65a711",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton",
+      "case_title": "Bellhaven of Chesterton",
+      "decided_at": "2026-10-04T21:32:33.710764+00:00",
+      "result": {
+        "updated_account_id": "0013NUZQHQUEZ8DXEG",
+        "api_response": {
+          "account_id": "0013NUZQHQUEZ8DXEG",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_e7401bb94a8b93",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city",
+      "case_title": "Bellhaven Rehabilitation & Nursing of Grove City",
+      "decided_at": "2026-10-04T21:32:39.344916+00:00",
+      "result": {
+        "updated_account_id": "001TZCSTBZFM6K5BGN",
+        "api_response": {
+          "account_id": "001TZCSTBZFM6K5BGN",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_b92e1b93a84890",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek",
+      "case_title": "Bellhaven Willow Creek",
+      "decided_at": "2026-10-04T21:32:57.196295+00:00",
+      "result": {
+        "updated_account_id": "0017MN2JYAJBDS8WQZ",
+        "api_response": {
+          "account_id": "0017MN2JYAJBDS8WQZ",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "proposal_id": "proposal_0fb50f959bae81",
+      "decision": "APPLIED",
+      "action": "UPDATE_ACCOUNT",
+      "case_key": "website::https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton",
+      "case_title": "The Arbors at Bellhaven - Dayton",
+      "decided_at": "2026-10-04T21:33:11.027653+00:00",
+      "result": {
+        "updated_account_id": "0010KJFP601YNTZVDA",
+        "api_response": {
+          "account_id": "0010KJFP601YNTZVDA",
+          "message": "updated",
+          "fields": [
+            "name"
+          ]
+        }
+      }
+    }
+  ]
+}
